@@ -205,11 +205,12 @@ The following were used for this project.
 <td align="center">
 <h2>Daniel Cuadra</h2>
 
-[![Portfolio](https://img.shields.io/badge/portfolio-8B89CC?&style=for-the-badge)]("https://dcuadra85.github.io/my-portfolio/")
+[![Portfolio](https://img.shields.io/badge/portfolio-8B89CC?&style=for-the-badge)](https://danielcuadraportfolio.herokuapp.com/)
 <br />
-[![GitHub](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white)]("https://github.com/DCuadra85")
+[![GitHub](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/DCuadra85/)
 <br />
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]("https://www.linkedin.com/in/daniel-cuadra-3705aa39/")
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-cuadra-722968183/)
+
 </td>
 
 <td align="center">
